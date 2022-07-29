@@ -1,0 +1,31 @@
+div {
+    font-family:  Georgia, Times, 'Times New Roman', serif;; 		
+    color: rgb(0, 0, 0);; 	
+    font-size: 32px;; 	
+    padding: 30px;
+}
+nav {
+    border-radius: 5%;
+    background-color: rgb(10, 150, 231);
+    display: flex;
+    justify-content: space-around;
+}
+
+img {
+    padding: 
+    width: 500px;
+    height: 500px;
+}
+
+body {
+    background-color: rgb(99, 78, 218);
+}
+p {
+    border-radius: 2%;
+    background-color: rgb(235, 88, 235);
+    font-family:  Georgia, Times, 'Times New Roman', serif;; 		
+    color: rgb(0, 0, 0);; 	
+    font-size: 32px;; 	
+    padding: 30px;
+
+}
